@@ -61,5 +61,4 @@ settings.gradle.projectsLoaded {
 		}
 	}
 }
-include 'spring-learning'
 

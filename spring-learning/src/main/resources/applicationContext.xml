@@ -1,2 +1,0 @@
-<context:property-placeholder location="classpath:logback.xml"
-							  xmlns:context="http://www.springframework.org/schema/context"/>
